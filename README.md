@@ -5,7 +5,7 @@
 
 <div>
     <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
-    In this process, I move forward with <a href="https://www.patika.dev/" target="_blank">Patika.dev</a>. Glad to see you here!</p>
+    In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
     <p> Thank you for your visit. 🖖 </p>
 </div>
 
