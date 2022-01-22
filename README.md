@@ -1,6 +1,5 @@
-
 # Hi there! I'm Ruken,
-<h3> Junior Frontend Developer <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40">  </h3>
+<h3> Junior Frontend Developer <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30">  </h3>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
 
@@ -20,27 +19,24 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
 <a href = 'https://git-scm.com/'> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 </a>
-
-<!-- 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
--->
 <br> 
-
 <h3> Where Can You Find Me? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
-<div size='20px'> 
-<p align='left'>
-<a href = 'https://www.linkedin.com/in/rukenerpolat/'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://github.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href="https://www.hackerrank.com/rukenerpolat"><img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
-  <br>
-</p>
+<div align='left'>
+<a href='https://www.linkedin.com/in/rukenerpolat/'>
+    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
+</a>
+ ╹
+<a href='https://twitter.com/rukenerpolat'>
+    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/twitter.png"/>
+</a>
+  ╹
+<a href='https://github.com/rukenerpolat'>
+    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/github.png"/>
+</a>
+   ╹
+<a href='https://www.hackerrank.com/rukenerpolat'>
+    <img width = '26px' height="26" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/>
+</a>
 </div>
 
  * [Personal Site](https://rukenerpolat.com/)
@@ -51,4 +47,25 @@
  <hr>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+<!-- 
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
+
+
+<div size='20px'> 
+<p align='left'>
+<a href = 'https://www.linkedin.com/in/rukenerpolat/'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://github.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.hackerrank.com/rukenerpolat"><img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
+  <br>
+</p>
+</div>
+-->
 
