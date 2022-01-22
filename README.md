@@ -2,8 +2,8 @@
 ## Junior Frontend Developer
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
-
 <div>
+    <h4> Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h4>
     <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
     In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
     <p> Thank you for your visit. 🖖 </p>
