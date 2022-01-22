@@ -19,7 +19,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></a>
 <a href = 'https://code.visualstudio.com/'> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
-<a href = 'https://git-scm.com/'> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<a href = 'https://git-scm.com/'> <img width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
 <br> 
 <h3> Where Can You Find Me? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
