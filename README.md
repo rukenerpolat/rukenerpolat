@@ -40,6 +40,10 @@
  ╹
 <a href='mailto:rukenerpolat@gmail.com'>
     <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png"/>
+</a>   
+ ╹
+<a href='https://rukenerpolat.com/'>
+    <img width="26" height="26" src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
 </div>
 
