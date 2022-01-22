@@ -29,13 +29,17 @@
 <a href='https://twitter.com/rukenerpolat'>
     <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/twitter.png"/>
 </a>
-  ╹
+ ╹
 <a href='https://github.com/rukenerpolat'>
     <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/github.png"/>
 </a>
-   ╹
+ ╹
 <a href='https://www.hackerrank.com/rukenerpolat'>
-    <img width = '26px' height="26" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/>
+    <img width="26" height="26" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/>
+</a>
+ ╹
+<a href='mailto:rukenerpolat@gmail.com'>
+    <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png"/>
 </a>
 </div>
 
