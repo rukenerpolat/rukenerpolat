@@ -1,35 +1,46 @@
-### Hi there, I'm Ruken. 😊
-## Junior Frontend Web Developer
+# Hi there! I'm Ruken,
+## Junior Frontend Developer
+
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
 
-<br />
-Before learning software, I was a student in Chemical Engineering. <br>
-During my studentship, I also gained working experience in many jobs.  <br>
-I've been learning software for the last 8 months. <br>
-It's been quite an exciting time and  <br>
-I've really enjoyed everything this new process has introduced me to.  <br>
-I spend my days with tutorials and applications about CSS, JavaScript.  <br>
-I will upload my projects here soon. <br>
-Thank you! <br>
+<div>
+    <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
+    In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
+    <p> Thank you for your visit. 🖖 </p>
+</div>
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<a href = 'https://en.wikipedia.org/wiki/HTML'> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
+<a href = 'https://en.wikipedia.org/wiki/CSS'> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
+<a href = 'https://www.javascript.com/'> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></a>
+<a href = 'https://getbootstrap.com/'> 
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></a>
+<a href = 'https://code.visualstudio.com/'> 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
+<a href = 'https://git-scm.com/'> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+</a>
 
-<!--
+<!-- 
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 -->
-<br>
+<br> 
 
-### Where Can You Find Me? - :iphone:
-* [LinkedIn](https://www.linkedin.com/in/rukenerpolat/)
-* [HackerRank](https://www.hackerrank.com/rukenerpolat)
-* [Personal Site](https://rukenerpolat.com/)
-* [Email](mailto:rukenerpolat@gmail.com)
+### Where Can You Find Me? - 📨
+<div size='20px'> 
+<p align='left'>
+<a href = 'https://www.linkedin.com/in/rukenerpolat/'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://github.com/rukenerpolat'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.hackerrank.com/rukenerpolat"><img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"/></a>
+  <br>
+</p>
+</div>
+
+ * [Personal Site](https://rukenerpolat.com/)
+ * [Email](mailto:rukenerpolat@gmail.com)
+
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rukenerpolat.rukenerpolat)
+ 
