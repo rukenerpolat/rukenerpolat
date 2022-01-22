@@ -48,3 +48,7 @@
 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rukenerpolat.rukenerpolat)
  
+ <hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
