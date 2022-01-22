@@ -9,6 +9,8 @@
     <p> Thank you for your visit. 🖖 </p>
 </div>
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rukenerpolat.rukenerpolat)
+
 ### Languages and Tools:
 <a href = 'https://en.wikipedia.org/wiki/HTML'> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
 <a href = 'https://en.wikipedia.org/wiki/CSS'> <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
@@ -46,11 +48,6 @@
     <img width="26" height="26" src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
 </div>
-
- * [Personal Site](https://rukenerpolat.com/)
- * [Email](mailto:rukenerpolat@gmail.com)
-
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rukenerpolat.rukenerpolat)
  
  <hr>
 
