@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
 <div>
-    <h4> Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h4>
+    <h4> Welcome! <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40"> </h4>
     <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
     In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
     <p> Thank you for your visit. 🖖 </p>
@@ -25,10 +25,11 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 -->
 <br> 
 
-### Where Can You Find Me? - 📨
+<h3> Where Can You Find Me? <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
 <div size='20px'> 
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/rukenerpolat/'> <img width = '26px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
