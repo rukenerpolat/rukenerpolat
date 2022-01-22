@@ -1,9 +1,10 @@
+
 # Hi there! I'm Ruken,
-## Junior Frontend Developer
+<h3> Junior Frontend Developer <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40">  </h3>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
-<div>
-    <h4> Welcome! <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="40"> </h4>
+
+<div>    
     <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
     In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
     <p> Thank you for your visit. 🖖 </p>
@@ -26,6 +27,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 -->
 <br> 
 
