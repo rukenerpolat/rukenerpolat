@@ -18,36 +18,32 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/></a>
 <a href = 'https://code.visualstudio.com/'> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
-<a href = 'https://git-scm.com/'> <img width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<a href = 'https://git-scm.com/'> <img width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
-<a href = 'https://www.canva.com/'> <img width="26px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png"/>
+<a href = 'https://www.canva.com/'> <img width="30px" src="https://img.icons8.com/plasticine/100/000000/canva.png"/>
 </a>
-<a href = 'https://wordpress.com/tr/'> <img width="26px" src="https://img.icons8.com/color/50/000000/wordpress.png"/>
+<a href = 'https://wordpress.com/tr/'> <img width="30px" src="https://img.icons8.com/color/50/000000/wordpress.png"/>
 </a>
 <br> 
 <h3>For communication <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
 <div align='left'>
 <a href='https://www.linkedin.com/in/rukenerpolat/'>
-    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
+   <img width="30" height="30" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
  ╹
 <a href='https://twitter.com/rukenerpolat'>
-    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/twitter.png"/>
-</a>
- ╹
-<a href='https://github.com/rukenerpolat'>
-    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/github.png"/>
+   <img width="31" height="31" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
 </a>
  ╹
 <a href='https://www.hackerrank.com/rukenerpolat'>
-    <img width="26" height="26" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/>
+   <img width="26" height="26" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/>
 </a>
  ╹
 <a href='mailto:rukenerpolat@gmail.com'>
-    <img width="26" height="26" src="https://img.icons8.com/ios-filled/50/000000/apple-mail.png"/>
+    <img width="25" height="25" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
 </a>   
  ╹
 <a href='https://rukenerpolat.com/'>
-    <img width="26" height="26" src="https://img.icons8.com/ios/50/000000/domain.png"/>
+    <img width="28" height="28" src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
 </a>
 </div>
