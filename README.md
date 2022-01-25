@@ -1,11 +1,12 @@
 # Hi there! I'm Ruken,
 <h3> Junior Frontend Developer <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="30">  </h3>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" top="20px" width="600" height="370" /> 
 
 <div>    
     <p align="left"> I just started the software. I learned HTML and CSS and now I'm working on JavaScript.
-    In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. Glad to see you here!</p>
+    In this process, I move forward with <a href="https://www.patika.dev/">Patika.dev</a>. <br>
+    Glad to see you here!</p>
     <p> Thank you for your visit. 🖖 </p>
 </div>
 
