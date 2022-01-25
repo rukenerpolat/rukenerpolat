@@ -19,6 +19,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
 <a href = 'https://git-scm.com/'> <img width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 </a>
+<a href = 'https://www.canva.com/'> <img width="26px" src="https://img.icons8.com/cute-clipart/50/000000/canva-app.png"/>
+</a>
+
 <br> 
 <h3>For communication <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
 <div align='left'>
