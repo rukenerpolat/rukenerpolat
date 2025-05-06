@@ -2,7 +2,7 @@
 
 <h3> Junior Frontend Developer </h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" alt="GIF" width="270"/>
+<img align="right" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" alt="GIF" width="240"/>
 
 <div>    
     I have hands-on experience in HTML, CSS, SASS, Bootstrap, JavaScript, and React. I focus on delivering high-quality results, whether working independently or as part of a team. I am eager to contribute my skills to your company and add value to your journey toward continued success.
