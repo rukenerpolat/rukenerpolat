@@ -1,4 +1,4 @@
-# Hi there! I'm Ruken,
+# <h2> Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 <img align="right" src="https://github.com/user-attachments/assets/184319da-da86-49f6-985d-0c0fb132384f" alt="GIF" width="340"/>
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" alt="GIF" width="240"/>
