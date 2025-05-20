@@ -30,8 +30,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-d6d1cb?style=flat&logo=linkedin&logoColor=black)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-d6d1cb?style=flat&logo=medium&logoColor=black)](https://medium.com/@rukenerpolat)
 [![X](https://img.shields.io/badge/-X-d6d1cb?style=flat&logo=x&logoColor=black)](https://x.com/rukenerpolat)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-d6d1cb?style=flat&logo=bluesky&logoColor=black)](https://bsky.app/profile/ruken.bsky.social)
 
+<!--
+[![Bluesky](https://img.shields.io/badge/-Bluesky-d6d1cb?style=flat&logo=bluesky&logoColor=black)](https://bsky.app/profile/ruken.bsky.social)
+[![DEV.to](https://img.shields.io/badge/DEV.to-d6d1cb?style=flat&logo=devdotto&logoColor=000000&labelColor=d6d1cb)](https://dev.to/rukenerpolat)
+-->
 
 <!--
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/html_intro.asp)
