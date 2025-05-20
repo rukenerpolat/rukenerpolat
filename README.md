@@ -1,4 +1,5 @@
-# <h2> Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h1> Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
+
 <img align="right" src="https://github.com/user-attachments/assets/184319da-da86-49f6-985d-0c0fb132384f" alt="GIF" width="340"/>
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" alt="GIF" width="240"/>
@@ -34,6 +35,7 @@
 <!--
 [![Bluesky](https://img.shields.io/badge/-Bluesky-d6d1cb?style=flat&logo=bluesky&logoColor=black)](https://bsky.app/profile/ruken.bsky.social)
 [![DEV.to](https://img.shields.io/badge/DEV.to-d6d1cb?style=flat&logo=devdotto&logoColor=000000&labelColor=d6d1cb)](https://dev.to/rukenerpolat)
+[![Codewars](https://img.shields.io/badge/Codewars-d6d1cb?style=flat&logo=codewars&logoColor=000000&labelColor=d6d1cb)](https://www.codewars.com/users/rukenerpolat)
 -->
 
 <!--
