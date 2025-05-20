@@ -8,8 +8,6 @@
     <p> Thank you for your visit! ♡ </p>
 </div>
 
-
-
 ### Tech Stack:
 [![HTML5](https://img.shields.io/badge/-HTML5-d6d1cb?style=flat&logo=html5&logoColor=black)](https://www.w3schools.com/html/html_intro.asp)
 [![CSS3](https://img.shields.io/badge/-CSS3-d6d1cb?style=flat&logo=css3&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
