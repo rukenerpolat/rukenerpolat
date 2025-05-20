@@ -1,4 +1,4 @@
-<h1> Hi There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
+<h1> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
 
 <img align="right" src="https://github.com/user-attachments/assets/184319da-da86-49f6-985d-0c0fb132384f" alt="GIF" width="340"/>
 <!--
