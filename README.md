@@ -1,10 +1,9 @@
 <h1> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/184319da-da86-49f6-985d-0c0fb132384f" alt="GIF" width="340"/>
+<img align="right" src="https://github.com/user-attachments/assets/38a1759f-68fc-4d89-8670-192adf92dbec" alt="GIF" width="340"/>
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/72344293/151006688-f638f5a1-955b-424a-a930-63c526d6a5cd.svg" alt="GIF" width="240"/>
 -->
-
 <div> I’m a Junior Frontend Developer passionate about building clean and responsive user interfaces. I have hands-on experience with HTML, CSS, SASS, Bootstrap, JavaScript, and React. I enjoy learning new technologies, and whether I’m working solo or collaborating with a team, I always strive to write clean, maintainable code and deliver solid results.
     <p> Thank you for your visit! ♡ </p>
 </div>
