@@ -11,9 +11,11 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-827a67?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/-SASS-827a67?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-827a67?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-827a67?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-827a67?style=flat&logo=javascript&logoColor=white)](https://javascript.info/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-827a67?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-827a67?style=flat&logo=react&logoColor=white)](https://react.dev/)
-[![Java](https://img.shields.io/badge/-Java-827a67?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
 [![Netlify](https://img.shields.io/badge/-Netlify-827a67?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-827a67?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
