@@ -30,5 +30,5 @@
 ### Socials <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
-[![CodePen](https://img.shields.io/badge/-CodePen-827a67?style=flat&logo=codepen&logoColor=white)](https://codepen.io/rukenn)
+[![CodePen](https://img.shields.io/badge/-CodePen-827a67?style=flat&logo=codepen&logoColor=white)](https://codepen.io/rukenerpolat)
 [![X](https://img.shields.io/badge/-X-827a67?style=flat&logo=x&logoColor=white)](https://x.com/rukenerpolat)
