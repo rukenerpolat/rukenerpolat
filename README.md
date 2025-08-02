@@ -14,9 +14,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-827a67?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-827a67?style=flat&logo=javascript&logoColor=white)](https://javascript.info/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-827a67?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![jQuery](https://img.shields.io/badge/-jQuery-827a67?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 [![React](https://img.shields.io/badge/-React-827a67?style=flat&logo=react&logoColor=white)](https://react.dev/)
+<!-- [![TypeScript](https://img.shields.io/badge/-TypeScript-827a67?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
 
 [![Netlify](https://img.shields.io/badge/-Netlify-827a67?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-827a67?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
