@@ -31,4 +31,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-827a67?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rukenerpolat)
 [![Medium](https://img.shields.io/badge/-Medium-827a67?style=flat&logo=medium&logoColor=white)](https://medium.com/@rukenerpolat)
 [![CodePen](https://img.shields.io/badge/-CodePen-827a67?style=flat&logo=codepen&logoColor=white)](https://codepen.io/rukenerpolat)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-827a67?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rukenerpolat/)
 [![X](https://img.shields.io/badge/-X-827a67?style=flat&logo=x&logoColor=white)](https://x.com/rukenerpolat)
