@@ -19,7 +19,6 @@
 <!-- [![TypeScript](https://img.shields.io/badge/-TypeScript-827a67?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
 
 [![Netlify](https://img.shields.io/badge/-Netlify-827a67?style=flat&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-827a67?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Figma](https://img.shields.io/badge/-Figma-827a67?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ### Recent Blog Posts on Medium
